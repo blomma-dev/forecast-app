@@ -3,6 +3,7 @@ Mobile focused web app for 3 day weather forecast, developed for personal use.
 - Get user location by geolocation
 - fetch data from OpenWeatherMap API
 - display forecast data
+- firebase hosting
 
 See it live: https://forecast-app-b7dba.firebaseapp.com/
 
