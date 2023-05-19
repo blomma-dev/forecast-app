@@ -69,7 +69,7 @@ const updateTodayCard = () => {
             <div class="today-weather-info">
             <p class="today-temp">${Math.round(
               element.main.temp - 273.15
-            )}&#8451</p>
+            )}&#176C</p>
             <div class="today-weather-icon"><img src="https://openweathermap.org/img/wn/${
               element.weather[0].icon
             }@2x.png"></div>
